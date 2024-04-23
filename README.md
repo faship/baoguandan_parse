@@ -3,7 +3,7 @@
 
 本项目旨在最大程度的减少报关员录入报关资料的时间，降本增效。
 
-[项目主页](www.bgd.faship.cn)
+[项目主页](http://www.bgd.faship.cn)
 
 #### 1.智能的解析报关资料，包括报关草单，装箱单，发票，申报要素等报关资料，转换为json格式。
     基于大语言模型开发的报关资料智能识别软件，一键识别报关资料中的报关草单、装箱单、发票、申报要素等报关资料。不限文档格式，准确率95%以上。目前支持word、excel、图片、压缩包、eml等文件格式。
@@ -15,9 +15,9 @@
 
 ## 客户端
 提供一个客户端展示解析结果。安装包在client目录下，安装后，无需注册，上传报关资料即可识别。客户端支持把识别后的结果导入单一窗口。 
-[客户端下载地址](www.bgd.faship.cn)
+[客户端下载地址](http://www.bgd.faship.cn)
 
-客户端使用方式请查看[客户端使用说明](www.bgd.faship.cn/how-to)
+客户端使用方式请查看[客户端使用说明](http://www.bgd.faship.cn/how-to)
 
 ![Image](https://github.com/faship/baoguandan_parse/blob/main/res/img1.png)
 
