@@ -19,7 +19,7 @@
 
 客户端使用方式请查看[客户端使用说明](www.bgd.faship.cn/how-to)
 
-![avatar](res\img1.png)
+![Image](https://github.com/faship/baoguandan_parse/blob/main/res/img1.png)
 
 ## 接口
 提供报关单资料解析的接口。上传报关资料，返回json格式的解析结果。结果包括识别的字段和位置，以及报关资料转换成的PDF文件。
