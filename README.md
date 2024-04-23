@@ -14,7 +14,8 @@
 
 
 ## 客户端
-提供一个客户端展示解析结果。安装包在client目录下，安装后，无需注册，上传报关资料即可识别。客户端支持把识别后的结果导入单一窗口。
+提供一个客户端展示解析结果。安装包在client目录下，安装后，无需注册，上传报关资料即可识别。客户端支持把识别后的结果导入单一窗口。 
+[客户端下载地址](www.bgd.faship.cn)
 
 客户端使用方式请查看[客户端使用说明](www.bgd.faship.cn/how-to)
 
@@ -25,7 +26,7 @@
 
 获取token请发邮件到gaojie@faship.cn说明意图和联系方式。
 
-#### 接口URL:  http:// /www.api.bgd.faship.cn:8000/api/parse_async
+#### 接口URL:  http://www.api.bgd.faship.cn:8000/api/parse_async
 
 #### 接口类型：POST; application/json;chatset=utf-8
 
